@@ -18,4 +18,4 @@ $ python .\main.py
 
 - Resultado:
 
-<img src="./src/img/ref.png">
+<img src="https://github.com/lucasns97/ex_jogo_da_velha/blob/main/src/img/ref.PNG?raw=true">
