@@ -66,7 +66,7 @@ def play_again():
 
 def main():
 
-    print('#################################')
+    print('\n\n#################################')
     print('#                               #')
     print('# Bem vindo/a ao Jogo da Velha! #')
     print('#                               #')
