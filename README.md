@@ -4,6 +4,10 @@
 
 ## Instruções
 
+### 0. Clonar este repositório
+
+- O link para clonar este repositório é: https://github.com/lucasns97/ex_jogo_da_velha.git
+
 ### 1. Instalar as dependências
 
 - As dependências estão listadas em ```requirements.txt```
