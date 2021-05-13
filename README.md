@@ -15,3 +15,7 @@
 ```
 $ python .\main.py
 ```
+
+- Resultado:
+
+<img src="./src/img/ref.png">
